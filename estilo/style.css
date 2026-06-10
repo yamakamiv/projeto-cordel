@@ -67,7 +67,7 @@ section.esp{
 }
 
 section#img1{
-    background-image: url(../imagens/background001.jpg);
+    background-image: url(imagens/background001.jpg);
     background-position: right center;
 }
 
@@ -79,7 +79,7 @@ section.esp p{
 }
 
 section#img2{
-    background-image: url(../imagens/background002.jpg);
+    background-image: url(imagens/background002.jpg);
 }
 
 footer{
